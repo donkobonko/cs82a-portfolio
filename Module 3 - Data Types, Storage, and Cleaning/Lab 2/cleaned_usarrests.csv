@@ -1,0 +1,51 @@
+Unnamed: 0,Murder,Assault,UrbanPop,flag-reason
+Alabama,13.2,236.0,58,OK
+Alaska,10.0,263.0,48,OK
+Arizona,8.1,294.0,80,OK
+Arkansas,8.8,190.0,50,OK
+California,9.0,276.0,91,OK
+Colorado,7.9,204.0,78,OK
+Connecticut,3.3,110.0,77,OK
+Delaware,5.9,238.0,72,OK
+Florida,15.4,335.0,80,OK
+Georgia,17.4,,60,Missing Assault (NaN)
+Hawaii,5.3,46.0,83,OK
+Idaho,2.6,120.0,54,OK
+Illinois,10.4,249.0,83,OK
+Indiana,7.2,113.0,65,OK
+Iowa,2.2,56.0,570,Impossible UrbanPop (>100%)
+Kansas,6.0,115.0,66,OK
+Kentucky,9.7,109.0,52,OK
+Louisiana,15.4,249.0,66,OK
+Maine,2.1,83.0,51,OK
+Maryland,11.3,300.0,67,OK
+Massachusetts,4.4,149.0,85,OK
+Michigan,12.1,255.0,74,OK
+Minnesota,2.7,72.0,66,OK
+Mississippi,16.1,259.0,44,OK
+Missouri,9.0,178.0,70,OK
+Montana,6.0,109.0,53,OK
+Nebraska,4.3,102.0,62,OK
+Nevada,12.2,252.0,81,OK
+New Hampshire,2.1,57.0,56,OK
+New Jersey,7.4,159.0,89,OK
+New Mexico,11.4,285.0,70,OK
+New York,11.1,254.0,6,Extreme low UrbanPop
+North Carolina,13.0,337.0,45,OK
+North Dakota,0.8,45.0,44,OK
+Ohio,7.3,120.0,75,OK
+Oklahoma,6.6,151.0,68,OK
+Oregon,4.9,159.0,67,OK
+Pennsylvania,6.3,106.0,72,OK
+Rhode Island,3.4,174.0,87,OK
+South Carolina,14.4,879.0,48,Extreme high Assault
+South Dakota,3.8,86.0,45,OK
+Tennessee,13.2,188.0,59,OK
+Texas,12.7,201.0,80,OK
+Utah,3.2,120.0,80,OK
+Vermont,2.2,48.0,32,OK
+Virginia,8.5,156.0,63,OK
+Washington,4.0,145.0,73,OK
+West Virginia,5.7,81.0,39,OK
+Wisconsin,2.6,53.0,66,OK
+Wyoming,6.8,161.0,60,OK
